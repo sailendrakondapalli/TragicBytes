@@ -55,10 +55,9 @@ An **AI-driven adaptive assessment website** that:
 
 | Layer | Tools Used |
 |-------|-------------|
-| **Frontend** | React.js, TailwindCSS, Recharts |
-| **Backend** | FastAPI (Python) |
-| **Database** | PostgreSQL (Supabase / Neon) |
-| **Cache / Background Jobs** | Redis + Celery |
+| **Frontend** | React.js, TailwindCSS
+| **Backend** | FastAPI (Python) |Nodejs
+| **Database** | NOSQL |
 | **AI Libraries** | HuggingFace Transformers, Scikit-learn, OpenAI API |
 | **Hosting** | Vercel (Frontend), Render / Railway (Backend) |
 
